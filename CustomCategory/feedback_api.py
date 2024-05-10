@@ -243,7 +243,7 @@ class AutoMitigationClient():
                 " \n {\"harmful\": [\"content1\", \"content2\", ...], \"normal\": [\"content1\", \"content2\", ...]}"
             },
             {
-                "role": "system", "content": "Category information in format as described below, \Input Format:"
+                "role": "system", "content": "Category information in format as described below, \nInput Format:"
                 " \n {\"category\": \"name\", \"description\": \"description\", \"feedbacks\": [\"feedback1\", \"feedback2\", ...]}"
             },
             {
